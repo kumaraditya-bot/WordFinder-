@@ -1,0 +1,18 @@
+The justify-content property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally).
+
+The flex property sets the flexible length on flexible items.
+
+Api-key: fe56774d-699c-41b8-8710-02b7068b1dd8
+
+async function return promise.
+ASYNC will always returns promises
+NOTE : AWAIT should be kept only inside ASYNC function
+AWAIT can't be used in regular function
+TIPS : Js is single threaded & synchronous in nature BUT, we can
+make it as asyncronous by using (ASYNC/AWAIT)
+
+https://media.merriam-webster.com/audio/prons/es/us/mp3/${subdirectory}/soundName.mp3?key=${apiKey}
+
+// https://media.merriam-webster.com/audio/prons/[es]/[us]/[mp3]/[subdirectory]/[base filename].[format]
+
+//  let soundSrc = `https://media.merriam-webster.com/soundc11/${subfolder}/${soundName}.wav?key=${apiKey}`;
